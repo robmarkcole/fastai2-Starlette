@@ -9,7 +9,6 @@ requests
 pyyaml
 fastprogress
 pillow
-python>=3.6
 pip
 scikit-learn
 scipy
@@ -17,3 +16,4 @@ spacy
 starlette
 fastai
 fastprogress
+uvicorn
