@@ -10,6 +10,9 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 # fastai
+# from fastai.vision import *
+# from fastai.imports import *
+# from fastai import load_learner
 from fastai.vision.all import *
 
 # Any custom imports should be done here, for example:
